@@ -1,0 +1,25 @@
+# Perguntas que Podem ser Respondidas com o Projeto de Churn Bancário
+
+## Perfil do Cliente e Fatores de Risco
+
+* Qual é o perfil demográfico dos clientes com maior probabilidade de cancelar a conta (churn)? (Considerando idade, gênero, nível de escolaridade, estado civil e número de dependentes)
+* Existe uma correlação entre a faixa de renda do cliente e a probabilidade de churn?
+* Clientes com qual categoria de cartão de crédito (Blue, Silver, Gold, Platinum) apresentam a maior taxa de churn?
+* Qual a relação entre o tempo de relacionamento do cliente com o banco ("Meses como cliente") e a taxa de churn?
+* Clientes que ficam inativos por mais tempo nos últimos 12 meses são mais propensos a cancelar a conta?
+* O número de contatos com o banco nos últimos 12 meses influencia a decisão de churn?
+
+## Comportamento Financeiro e Churn
+
+* Como o limite de crédito e o saldo rotativo médio se relacionam com a probabilidade de churn?
+* A "taxa de utilização média do cartão" é um bom indicador de um cliente em risco de churn?
+* Há alguma relação entre a mudança no valor total de transações (do 4º trimestre para o 1º trimestre) e o churn?
+* Clientes com um maior número total de transações são mais ou menos propensos a cancelar a conta?
+
+## Modelagem Preditiva e Estratégia de Negócios
+
+* Quais são as variáveis (características) mais importantes para prever o churn de clientes?
+* Com que precisão o modelo de machine learning consegue prever se um cliente irá cancelar a conta?
+* Qual dos modelos testados (Random Forest, XGBoost, AdaBoost) é o mais eficaz para esta tarefa de previsão?
+* Como a empresa pode utilizar os resultados deste projeto para criar estratégias de retenção de clientes mais eficazes?
+* É possível identificar proativamente os clientes com alto risco de churn para que a empresa possa tomar medidas preventivas?
